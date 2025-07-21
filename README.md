@@ -4,9 +4,9 @@ Smart-Safety est une plateforme intelligente conçue pour **prédire les risques
 
 ## 📸 Aperçu du projet
 
-![Dashboard](./screenshots/dashboard.png)
-![Chatbot](./screenshots/chatbot.png)
-![Prédiction](./screenshots/prediction-module.png)
+![Dashboard](./screenshots/8.0Dashboard.png)
+![Chatbot](./screenshots/10Chatbot.png)
+![Prédiction](./screenshots/8.0Dashboard.png)
 
 ## 🧩 Stack technique
 
